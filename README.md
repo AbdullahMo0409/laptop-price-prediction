@@ -37,8 +37,8 @@ The dataset included laptop specifications such as:
 - Processor
 - GPU
 - RAM
-- Storage
-- Screen specifications
+- Storage type and size
+- Screen specs
 - Price
 
 The full dataset may not be included directly in this repository depending on file size and sharing limitations.
